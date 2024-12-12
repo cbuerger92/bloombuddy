@@ -18,12 +18,12 @@ const nextConfig = {
       {
         protocol: "http",
         hostname: "res.cloudinary.com",
-        pathname: "/dutusk861/**",
+        pathname: "/dkjsm7cxj/**",
       },
       {
         protocol: "https",
         hostname: "res.cloudinary.com",
-        pathname: "/dutusk861/**",
+        pathname: "/dkjsm7cxj/**",
       },
       {
         protocol: "https",
